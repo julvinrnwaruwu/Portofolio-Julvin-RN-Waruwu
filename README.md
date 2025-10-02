@@ -271,7 +271,7 @@
     <main>
         <section id="data-pribadi" class="active">
             <div class="profile-pic">
-                <img src="https://github.com/user-attachments/assets/1eb25661-9164-4807-b325-853eaf313c91.jpg" alt="Foto Profil" />
+                <img src="fotosma.jpg" alt="Foto Profil" />
             </div>
             <div class="details">
                 <p><strong>Nama:</strong>  Julvin Rut Nasrani Waruwu</p>
@@ -309,16 +309,16 @@
         <section id="hobi">
             <div class="hobi-item">
                 <h3>Menari</h3>
-                <img src="https://github.com/user-attachments/assets/35833566-9419-44af-a47c-eacd5ead4c1b.JPG" alt="Menari" />
+                <img src="RIZ07515.JPG" alt="Menari" />
             </div>
             <div class="hobi-item">
                 <h3>Editing Foto</h3>
-                <img src="https://github.com/user-attachments/assets/75a07801-5045-402e-a5be-b546804b714d.jpg" alt="Editing Foto" />
+                <img src="moment.jpg" alt="Editing Foto" />
             </div>
             <div class="hobi-item">
                 <h3>Menonton Anime, Film, Drakor</h3>
-                <img src="https://github.com/user-attachments/assets/39ce5e6c-ae9d-4214-b9c6-b85ca61c5ca9.jpg" alt="Menonton Anime, Film, Drakor" /> 
-                <img src="https://github.com/user-attachments/assets/6c26b040-de5f-4b7b-b539-d108f6560dd7.jpg" alt="Menonton Anime, Film, Drakor" />
+                <img src="One Piece Poster.jpg" alt="Menonton Anime, Film, Drakor" /> 
+                <img src="Avatar (2009).jpg" alt="Menonton Anime, Film, Drakor" />
             </div>
         </section>
 
@@ -349,6 +349,10 @@
     </script>
 </body>
 
-</html>
+![fotosma](https://github.com/user-attachments/assets/75835516-7d97-474c-922e-52a8006b9db8)
+![RIZ07515](https://github.com/user-attachments/assets/27dc81ef-44ab-4779-971b-73dd438f3543)
+![moment](https://github.com/user-attachments/assets/ca146185-e8de-4ffc-961b-4e2c92e1b796)
+![One Piece Poster](https://github.com/user-attachments/assets/43ad2cb0-f822-420d-a688-6f157d7f7c9b)
+![Avatar (2009)](https://github.com/user-attachments/assets/82ebccab-6057-402b-bbd7-18d54579de0c)
 
 
